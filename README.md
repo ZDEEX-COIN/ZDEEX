@@ -2,7 +2,7 @@
 ![ZDEEX cli build - Ubuntu 20.04](https://github.com/ZDEEX-COIN/zdeex/workflows/ZDEEX%20cli%20build%20-%20Ubuntu%2020.04/badge.svg)\
 ![ZDEEX qt build - Windows cross compile 20.04](https://github.com/ZDEEX-COIN/zdeex/workflows/ZDEEX%20qt%20build%20-%20Windows%20cross%20compile%2020.04/badge.svg)\
 ![ZDEEX cli build - Windows cross compile 20.04](https://github.com/ZDEEX-COIN/zdeex/workflows/ZDEEX%20cli%20build%20-%20Windows%20cross%20compile%2020.04/badge.svg)\
-![ZDEEX Logo](https://zdeex.org/a9290064-86a9-4902-911e-bd1f12c6f64e.jpg "ZDEEX Chain Logo")
+![ZDEEX Logo](https://github.com/ZDEEX-COIN/zdeex/blob/master/doc/zdeex-logo.jpg) "ZDEEX Chain Logo")
 
 
 ## ZDEEX Chain
