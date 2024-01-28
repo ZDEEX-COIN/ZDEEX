@@ -11,7 +11,7 @@ This is the official ZDEEX Chain sourcecode repository based on [pirate](https:/
 
 ## Development Resources
 
-- ZDEEX Chain Website: [https://zdeex.black](https://zdeex.black/)
+- ZDEEX Chain Website: [https://zdeex.org](https://zdeex.org/)
 - Komodo Platform: [https://komodoplatform.com](https://komodoplatform.com/)
 - Pirate Platform: [https://piratechain.com/](https://piratechain.com/)
 - ZDEEX Blockexplorer: [https://explorer.zdeex.org](https://explorer.zdeex.org/)
